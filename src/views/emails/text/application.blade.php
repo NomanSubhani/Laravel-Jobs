@@ -1,6 +1,6 @@
 Hello {{ Config::get('laravel-jobs::mail.to.name') }}
 
-We've received a new job application through the website, here are the details:
+We've received a new job application through the website, anyone who is interested ,here are the details:
 
 Name:   {{ $name }}
 
